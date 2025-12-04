@@ -1,4 +1,4 @@
-name: Python CI/CD Demo
+name: Python CICD Demo
 
 on: 
   push: 
