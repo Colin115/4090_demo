@@ -3,6 +3,7 @@ name: Python CICD Demo
 on: 
   push: 
     branches: [ main ]
+  pull_request:
 
 jobs: 
   run-tests:
